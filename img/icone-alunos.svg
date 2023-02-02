@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96.361" height="94.336" viewBox="0 0 96.361 94.336">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_640" data-name="Retângulo 640" width="96.361" height="94.336" transform="translate(-7 -7)" fill="none" stroke="#fff" stroke-width="3"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1415" data-name="Grupo 1415" transform="translate(7 7)" clip-path="url(#clip-path)">
+    <path id="Caminho_186" data-name="Caminho 186" d="M110.578,109.628c-.037,3.365.237,11.917.237,14.729A73.543,73.543,0,0,0,94.5,126.019" transform="translate(-45.837 -53.174)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line id="Linha_17" data-name="Linha 17" x1="79.321" transform="translate(1.92 79.215)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Caminho_187" data-name="Caminho 187" d="M43,125.705,36.9,103.766H2.178l6.106,21.939" transform="translate(-1.056 -50.331)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Caminho_188" data-name="Caminho 188" d="M130.041,116.266c2.018-7.884,1.8-20.537.6-27.521a9.745,9.745,0,0,0-5.9-7.354l-9.422-3.885" transform="translate(-55.935 -37.594)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Caminho_189" data-name="Caminho 189" d="M49.2,91.029c-.006-.246.006-.631.023-1.016A9.588,9.588,0,0,1,55.2,81.391l9.422-3.885" transform="translate(-23.865 -37.594)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Caminho_190" data-name="Caminho 190" d="M76.189,30.188s10.966-2.235,14.638-6.909c0,0,4.229,3.15,7.109,5.225" transform="translate(-36.955 -11.291)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Caminho_191" data-name="Caminho 191" d="M97.848,15.667a23.51,23.51,0,0,0-1.8-4.419,17.324,17.324,0,0,0-7.056-7.272,16.125,16.125,0,0,0-13.93-.425,17.649,17.649,0,0,0-8.4,7.237,19.44,19.44,0,0,0-2.075,5.065,5.04,5.04,0,0,0,1.553,4.994,4.793,4.793,0,0,1,1.9,3.408c1.371,7.528,6.8,15.7,13.292,15.7,6.448,0,11.849-8.063,13.264-15.548a7.909,7.909,0,0,1,.369-1.366,7.428,7.428,0,0,1,1.848-2.647,3.283,3.283,0,0,0,.347-.413A5.084,5.084,0,0,0,97.848,15.667Z" transform="translate(-31.252 -1.056)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  </g>
+</svg>

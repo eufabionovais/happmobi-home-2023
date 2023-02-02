@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="134.414" height="85.988" viewBox="0 0 134.414 85.988">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_643" data-name="Retângulo 643" width="134.414" height="85.987" fill="none" stroke="#fff" stroke-width="3"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_4893" data-name="Grupo 4893" transform="translate(15 10)">
+    <line id="Linha_21" data-name="Linha 21" x2="29.397" transform="translate(22.513 46.219)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <g id="Grupo_1420" data-name="Grupo 1420" transform="translate(-15 -10)">
+      <g id="Grupo_1419" data-name="Grupo 1419" transform="translate(0 0)" clip-path="url(#clip-path)">
+        <path id="Caminho_197" data-name="Caminho 197" d="M82,21.022V6.7a4.523,4.523,0,0,0-4.523-4.523H16.691A4.523,4.523,0,0,0,12.168,6.7V25.6" transform="translate(10.602 9.879)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path id="Caminho_198" data-name="Caminho 198" d="M96.033,78.916V56a5.011,5.011,0,0,1,5.011-5.011h34.778A5.011,5.011,0,0,1,140.833,56V78.916" transform="translate(-29.123 -13.243)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <line id="Linha_22" data-name="Linha 22" x2="72.41" transform="translate(44.491 71.95)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <rect id="Retângulo_642" data-name="Retângulo 642" width="20.001" height="31.106" rx="7.57" transform="translate(17.512 42.825)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <line id="Linha_23" data-name="Linha 23" x2="3.577" transform="translate(25.724 69.01)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <line id="Linha_24" data-name="Linha 24" y2="9.076" transform="translate(51.864 62.873)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <line id="Linha_25" data-name="Linha 25" x2="8.286" transform="translate(85.167 42.036)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <line id="Linha_26" data-name="Linha 26" y1="11.851" x2="11.851" transform="translate(44.605 23.362)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <line id="Linha_27" data-name="Linha 27" y1="20.02" x2="20.02" transform="translate(48.963 25.138)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>
