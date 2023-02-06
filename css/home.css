@@ -270,6 +270,8 @@
   font-size: 21px;
   font-weight: normal;
   min-width: 285px;
+  border: none;
+  cursor: pointer;
 }
 
 .service__btn:hover {
@@ -421,6 +423,7 @@
   .data-content {
     border-radius: 35px;
     margin-top: -180px;
+    padding: 60px;
   }
 
   .data-item__title {
@@ -445,7 +448,6 @@
   .service__title {
     align-items: flex-start;
     flex-direction: column-reverse;
-    padding-inline-start: 80px;
   }
 
   .service__title h2 {
@@ -460,19 +462,19 @@
   .service__content {
     max-width: none;
     margin-inline: initial;
-    padding-inline: 80px;
   }
 
-  /* .service:nth-child(even) .service__content {
+  .service:nth-child(even) .service__title,
+  .service:nth-child(even) .service__content {
     padding-inline: 50px;
-    padding-inline-end: 100px;
-  } */
+    /* padding-inline-end: 100px; */
+  }
 
-  /* .service:nth-child(odd) .service__title,
+  .service:nth-child(odd) .service__title,
   .service:nth-child(odd) .service__content {
-    padding-inline-start: 100px;
+    padding-inline-start: 200px;
     padding-inline-end: 50px;
-  }   */
+  }  
 
   .service__actions {
     align-items: flex-start;
