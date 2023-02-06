@@ -68,6 +68,12 @@
     max-width: 100%;
 }
 
+
+.page-home-banner .media {
+  display: block;
+  max-width: 100%;
+}
+
 .page-home-2023 .intro h2 {
   line-height: 1;
   margin-top: 25px;
@@ -187,13 +193,9 @@
   line-height: 1.15;
 }
 
-
-
-
 .services-wrapper {
   padding-inline: 30px;
   padding-block: 40px;
-  background: red;
 }
 
 .services-wrapper > * + * {
@@ -203,18 +205,6 @@
 .service * + * {
   margin-top: 20px;
 }
-
-.service:nth-child(even) {
-  background-color: green;
-}
-
-.service:nth-child(odd) {
-  background-color: cyan;
-}
-
-/* .service .service__image {
-  overflow: hidden;
-} */
 
 .service:nth-child(even) .service__image {
   margin-left: -30px;
@@ -286,11 +276,6 @@
   background-color: var(--red);
   color: var(--white);
 }
-
-.left-image .service__content {
-  margin-right: auto;
-  margin-left: inherit;
-}  
 
 
 
@@ -370,7 +355,6 @@
 
   .service__content {
     max-width: 500px;
-    background: blue;
     margin-inline: auto;
   }
 
