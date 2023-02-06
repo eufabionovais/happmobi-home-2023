@@ -6,11 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
     
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.googleapis.com"> -->
+
 <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;600;700&family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/index-home.css">
+    <link rel="stylesheet" href="css/index-home-mobile.css">
+    <!-- <link rel="stylesheet" type="text/css" media="only screen and (min-width: 480px)" href="css/index-home-desktop.css" /> -->
 </head>
 <body class="page-home-2023">
 
@@ -18,24 +19,23 @@
         <img src="img/banner-home.png" alt="">
     </div>
 
-    <div class="container-fluid">
+    <div class="">
 
 
-        <div class="row intro">
-            <div class="col-6 first-column">
+        <div class="intro content-line">
+            <div class="first-column">
             <div class="content">
                 <img src="img/logo-happmobi-mini.png" alt="">
                 <h2>Venha fazer parte deste Ecossistema</h2>
             </div>
             </div>
-            <div class="col-6 second-column">
+            <div class="second-column">
             <div class="content">
                 <ul class="services-list list">
                     <li><a href="#">Fábrica de conteúdo</a></li>
                     <li><a href="#">Ferramenta de Autoria</a></li>
                     <li><a href="#">Cursos de Prateleira</a></li>
                     <li><a href="#">Plataforma LMS/LXP</a></li>
-                    <!-- <li><a href="#">Market Place</a></li> -->
                 </ul>
             </div>
             </div>
@@ -94,82 +94,98 @@
                 
             </div>
         </div>
+        <!--- -->
 
 
-        <div class="row service">
-            <div class="col-6 order-1">
+        <!-- SERVICES WRAPPER -->
+        <div class="services-wrapper">
+
+            <div class="service">
+                <div class="service__title">
+                    <h2>Plataforma LMS/LXP</h2>
+                </div>
                 <div class="service__image">
                     <img src="img/image-1.png" alt="">
                 </div>
+                <div class="service__content">
+                    <p>O HappLearning é a plataforma mais atrativa e completa pra você ter sucesso com sua <b>estratégia de educação corporativa!</b></p>
+                    <div class="service__actions">
+                        <a href="#" class="service__btn">Conheça todos os detalhes</a>
+                        <a href="#" class="service__btn">Agende uma demonstração</a>
+                    </div>
+                </div>                    
             </div>
-            <div class="col-6 ">
-            <div class="service__content">
-                <h2>Plataforma LMS/LXP</h2>
-                <p>O HappLearning é a plataforma mais atrativa e completa pra você ter sucesso com sua <b>estratégia de educação corporativa!</b></p>
-            </div>
-            </div>
-        </div>
 
-
-        <div class="row service left-image">
-            <div class="col-6">
-            <div class="service__image">
-                <img src="img/image-2.png" alt="">
-            </div>
-            </div>
-        <div class="col-6 ">
-            <div class="service__content">
-            <h2>Ferramenta de autoria</h2>
-            <p>Crie você mesmo/a treinamentos on-line para seus times ou clientes, com a nossa Hautoria!</p>
-            </div>
-        </div>
-        </div>
-        
-        <div class="row service">
-            <div class="col-6 order-1">
+            <div class="service">
+                <div class="service__title">
+                    <h2>Ferramenta de autoria</h2>
+                </div>
+                <div class="service__image">
+                    <img src="img/image-2.png" alt="">
+                </div>
+                <div class="service__content">
+                    <p>Crie você mesmo/a treinamentos on-line para seus times ou clientes, com a nossa Hautoria!</p>
+                    <div class="service__actions">
+                        <a href="#" class="service__btn">Conheça todos os detalhes</a>
+                        <a href="#" class="service__btn">Agende uma demonstração</a>
+                    </div>
+                </div>            
+            </div>  
+            
+            <div class="service">
+                <div class="service__title">
+                    <h2>Cursos de prateleira</h2>
+                </div>
                 <div class="service__image">
                     <img src="img/image-3.png" alt="" >
                 </div>
-                </div>
-            <div class="col-6 ">
                 <div class="service__content">
-                <h2>Cursos de prateleira</h2>
-                <p>Temas atuais, formatos atrativos! Nossos cursos prontos do <b>catálogo "Tá na Mão"</b> permitem incrementar a sua oferta de treinamentos rapidamente.</p>
+                    <p>Temas atuais, formatos atrativos! Nossos cursos prontos do <b>catálogo "Tá na Mão"</b> permitem incrementar a sua oferta de treinamentos rapidamente.</p>
+                    <div class="service__actions">
+                        <a href="#" class="service__btn">Conheça todos os detalhes</a>
+                        <a href="#" class="service__btn">Agende uma demonstração</a>
+                    </div>
                 </div>
-            </div>
-        </div>  
-        
-        
-        <div class="row service left-image">
-            <div class="col-6">
+            </div>    
+            
+            <div class="service">
+                <div class="service__title">
+                    <h2>Fábrica de cursos</h2>
+                </div>
                 <div class="service__image">
                     <img src="img/image-4.png" alt="">
                 </div>
-                </div>
-            <div class="col-6 ">
                 <div class="service__content">
-                <h2>Fábrica de cursos</h2>
-                <p>Esqueça tudo o que você já viu sobre produção de cursos online! Conheça a  nossa solução de desenvolvimento ágil de conteúdos educacionais!</p>
+                    <p>Esqueça tudo o que você já viu sobre produção de cursos online! Conheça a  nossa solução de desenvolvimento ágil de conteúdos educacionais!</p>
+                    <div class="service__actions">
+                        <a href="#" class="service__btn">Conheça todos os detalhes</a>
+                        <a href="#" class="service__btn">Agende uma demonstração</a>
+                    </div>
                 </div>
-            </div>
-        </div>    
+            </div>      
+
+        </div>
+        <!-- / SERVICES WRAPPER -->
+
+
+        
         
 
 
     </div>
 
     <div class="row g-0 more-content">
-        <div class="col ">
+        
             <a href="#" class="bg-red text-center">Conquistas</a>
-        </div>
-        <div class="col ">
+        
+        
             <a href="#" class="bg-yellow  text-center">Clientes</a>
-        </div>
-        <div class="col ">
+        
+        
             <a href="#" class="bg-black  text-center">Cases</a>
-        </div>
+        
     </div>    
-
+ 
 
 
     
