@@ -83,6 +83,13 @@
   color: var(--black);
 }
 
+
+.page-home-2023 .page-home__banner {
+    display: flex;
+    justify-content: center;
+}
+
+
 .page-home-2023 .page-home__banner img {
     display: block;
     max-width: 100%;
